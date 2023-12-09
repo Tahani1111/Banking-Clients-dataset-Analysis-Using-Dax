@@ -2,12 +2,19 @@
 ## Problem Statement
 1.	Create a measure for the ‘Average age of depositors’
 
-2.	Create a new column named ‘Age band’ containing the following;
+2.	Create a new column named ‘Age band’ containing the following:
+   
 •	‘Young’ for ages below 30
+
 •	‘Mid-aged’ for ages between 30 and 50
+
 •	‘Old’ for ages above 50
-3.	Create a measure calculating the total balance for:
+
+4.	Create a measure calculating the total balance for:
+
 a.	Job: Technician
+
 b.	Marital: Single and Married
-4.	Create a measure to get the number of depositors on Loan
+
+5.	Create a measure to get the number of depositors on Loan
 
