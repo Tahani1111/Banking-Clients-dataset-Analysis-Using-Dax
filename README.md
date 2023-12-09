@@ -37,5 +37,9 @@ Formula                             |          Table
 ![](techno.png)
 
 ## Marital: Single and Married
+     Single                         |       Married
+:----------------------------------:|:----------------:
+![](single.png)                     |     ![](![](married.png))
+
 
 
