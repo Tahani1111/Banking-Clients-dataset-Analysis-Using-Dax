@@ -4,11 +4,11 @@
 
 2.	Create a new column named ‘Age band’ containing the following:
    
-•	‘Young’ for ages below 30
+ •	‘Young’ for ages below 30
 
-•	‘Mid-aged’ for ages between 30 and 50
+ •	‘Mid-aged’ for ages between 30 and 50
 
-•	‘Old’ for ages above 50
+ •	‘Old’ for ages above 50
 
 4.	Create a measure calculating the total balance for:
 
@@ -23,11 +23,11 @@ b.	Marital: Single and Married
 
 ## Create a new column named ‘Age band’ containing the following:
    
-•	‘Young’ for ages below 30
+## •	‘Young’ for ages below 30
 
-•	‘Mid-aged’ for ages between 30 and 50
+## •	‘Mid-aged’ for ages between 30 and 50
 
-•	‘Old’ for ages above 50
+## •	‘Old’ for ages above 50
 Formula                             |          Table
 :----------------------------------:|:----------------:
 ![](Formula_age_band.png)           |     ![](age_band.png)
@@ -35,5 +35,7 @@ Formula                             |          Table
 ## Create a measure calculating the total balance for:
 ## Job: Technician
 ![](techno.png)
+
+## Marital: Single and Married
 
 
