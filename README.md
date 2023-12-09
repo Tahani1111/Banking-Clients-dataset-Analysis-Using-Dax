@@ -41,7 +41,8 @@ Single                              |          Married
 :----------------------------------:|:----------------:
 ![](single.png)                     |     ![](married.png)
 
-
+## Create a measure to get the number of depositors on the Loan
+![](loans.png)
 
 
 
