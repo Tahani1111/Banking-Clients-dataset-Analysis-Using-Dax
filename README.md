@@ -32,3 +32,8 @@ Formula                             |          Table
 :----------------------------------:|:----------------:
 ![](Formula_age_band.png)           |     ![](age_band.png)
 
+## Create a measure calculating the total balance for:
+## Job: Technician
+![](techno.png)
+
+
