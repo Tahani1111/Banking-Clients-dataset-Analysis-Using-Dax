@@ -1,6 +1,6 @@
 # Banking-Clients-dataset-Analysis-Using-Dax
 ## Introdution
-This task is to demonstrate analysis of the Northwind traders dataset using Microsoft Power BI (DAX) for practicing purposes, the analysis requirements are to develop DAX formulas for the problem statement questions  
+This task is to demonstrate analysis of the Northwind traders dataset using Microsoft Power BI (DAX) for practicing purposes, the analysis requirements are to develop DAX measure for the problem statement questions  
 ## Problem Statement
 1.	Create a measure for the ‘Average age of depositors’
 
